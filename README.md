@@ -1,14 +1,8 @@
 <h1 align="center">
-  <img src="https://via.placeholder.com/150x150/FF0033/FFFFFF?text=LOGO" alt="Your Logo" width="150"/>
   <br>
   Привет, я [Мухаммад] 👋 
 </h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Темно--Красный-FF0033?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Фиолетовый-800080?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Кислотный-39FF14?style=for-the-badge&logo=github" />
-</p>
 
 ---
 
@@ -27,6 +21,24 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
+<h1 align="center">
+  <span style="font-size: 36px; font-weight: bold; color: #FF0033;">Добро пожаловать в мое</span> 
+  <span style="font-size: 36px; font-weight: bold; color: #39FF14; animation: pulse 2s infinite;">Портфолио</span>
+</h1>
+
+<style>
+@keyframes pulse {
+  0% {
+    text-shadow: 0 0 10px #39FF14, 0 0 20px #39FF14, 0 0 30px #39FF14, 0 0 40px #39FF14;
+  }
+  50% {
+    text-shadow: 0 0 20px #FF0033, 0 0 30px #FF0033, 0 0 40px #FF0033, 0 0 50px #FF0033;
+  }
+  100% {
+    text-shadow: 0 0 10px #39FF14, 0 0 20px #39FF14, 0 0 30px #39FF14, 0 0 40px #39FF14;
+  }
+}
+</style>
 ---
 
 ### 🛠 Инструменты
