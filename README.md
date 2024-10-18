@@ -18,9 +18,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=filimonovalexey.filimonovalexey&"  />
-</div>
+
 
 ###
 
@@ -31,23 +29,6 @@
 <p align="left">Я начинающий Frontend разработчик. Мой путь в it начался со Школы 21 от Сбера, где я прошел интенсив. После интенсива был промежуток в пару месяцев, где я пробовал себя во многих направлениях, пробовал изучать язык Си, Python, попробовал свои силы в data science, но больше всего меня зацепила Frontend разработка! С мая 2022 года по апрель 2023 я изучал Frontend разработку на курсах Яндекс Практикум. В настоящий момент мое обучение на курсе завершено и я нашел свою первую работу!<br><br>- 🔭 Участвовал в бассейне Школы 21 от Сбера.<br>- 📚 Завершил курсы по веб-разработке Яндекс Практикум!<br>- ⚡ Являюсь старшим студентом на курсе Веб-разработки Яндекс Практикум.</p>
 
 ###
-<h3 align="left">📕 Мои статьи</h3>
-
-- [Пишем Telegram-бота для подготовки к собеседованию на Frontend-разработчика](https://proglib.io/p/pishem-telegram-bota-dlya-podgotovki-k-sobesedovaniyu-na-frontend-razrabotchika-2024-05-29)
-- [Пишем Telegram-бота для фильтрации нецензурной лексики в чате](https://proglib.io/p/pishem-telegram-bota-dlya-filtracii-necenzurnoy-leksiki-v-chate-2024-07-15)
-
-###
-
-<h3 align="left">📺 Последние видео на YouTube</h3>
-
-<!-- BEGIN YOUTUBE-CARDS -->
-[![Сможет ли Raspberry Pi 5 заменить ПК?](https://ytcards.demolab.com/?id=as15rY1H6T0&title=%D0%A1%D0%BC%D0%BE%D0%B6%D0%B5%D1%82+%D0%BB%D0%B8+Raspberry+Pi+5+%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D0%B8%D1%82%D1%8C+%D0%9F%D0%9A%3F&lang=en&timestamp=1728922036&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Сможет ли Raspberry Pi 5 заменить ПК?")](https://www.youtube.com/watch?v=as15rY1H6T0)
-[![chatGPT создал игру!](https://ytcards.demolab.com/?id=orgMQ1fVNtc&title=chatGPT+%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BB+%D0%B8%D0%B3%D1%80%D1%83%21&lang=en&timestamp=1728498120&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "chatGPT создал игру!")](https://www.youtube.com/watch?v=orgMQ1fVNtc)
-[![Клон Flappy Bird за 5 минут с помощью chatGPT на React JS!](https://ytcards.demolab.com/?id=0WF6Ynuvi4w&title=%D0%9A%D0%BB%D0%BE%D0%BD+Flappy+Bird+%D0%B7%D0%B0+5+%D0%BC%D0%B8%D0%BD%D1%83%D1%82+%D1%81+%D0%BF%D0%BE%D0%BC%D0%BE%D1%89%D1%8C%D1%8E+chatGPT+%D0%BD%D0%B0+React+JS%21&lang=en&timestamp=1728121706&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Клон Flappy Bird за 5 минут с помощью chatGPT на React JS!")](https://www.youtube.com/watch?v=0WF6Ynuvi4w)
-[![JavaScript в Flipper Zero изменил все!](https://ytcards.demolab.com/?id=3c2vqIe1nac&title=JavaScript+%D0%B2+Flipper+Zero+%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B8%D0%BB+%D0%B2%D1%81%D0%B5%21&lang=en&timestamp=1727453052&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "JavaScript в Flipper Zero изменил все!")](https://www.youtube.com/watch?v=3c2vqIe1nac)
-[![chatGPT разговаривает как человек | Расширенный голосовой режим chatGPT](https://ytcards.demolab.com/?id=GMXd7IUvZZk&title=chatGPT+%D1%80%D0%B0%D0%B7%D0%B3%D0%BE%D0%B2%D0%B0%D1%80%D0%B8%D0%B2%D0%B0%D0%B5%D1%82+%D0%BA%D0%B0%D0%BA+%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA+%7C+%D0%A0%D0%B0%D1%81%D1%88%D0%B8%D1%80%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9+%D0%B3%D0%BE%D0%BB%D0%BE%D1%81%D0%BE%D0%B2%D0%BE%D0%B9+%D1%80%D0%B5%D0%B6%D0%B8%D0%BC+chatGPT&lang=en&timestamp=1727280194&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "chatGPT разговаривает как человек | Расширенный голосовой режим chatGPT")](https://www.youtube.com/watch?v=GMXd7IUvZZk)
-[![chatGPT создал игру Flappy Bird!](https://ytcards.demolab.com/?id=_-vzyc0ZRB4&title=chatGPT+%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BB+%D0%B8%D0%B3%D1%80%D1%83+Flappy+Bird%21&lang=en&timestamp=1726912835&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "chatGPT создал игру Flappy Bird!")](https://www.youtube.com/watch?v=_-vzyc0ZRB4)
-<!-- END YOUTUBE-CARDS -->
 
 ###
 
