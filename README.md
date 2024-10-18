@@ -22,23 +22,8 @@
 </p>
 
 <h1 align="center">
-  <span style="font-size: 36px; font-weight: bold; color: #FF0033;">Добро пожаловать в мое</span> 
-  <span style="font-size: 36px; font-weight: bold; color: #39FF14; animation: pulse 2s infinite;">Портфолио</span>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=39FF14&width=435&lines=Добро+пожаловать+в+мое+Портфолио!" alt="Typing SVG" />
 </h1>
-
-<style>
-@keyframes pulse {
-  0% {
-    text-shadow: 0 0 10px #39FF14, 0 0 20px #39FF14, 0 0 30px #39FF14, 0 0 40px #39FF14;
-  }
-  50% {
-    text-shadow: 0 0 20px #FF0033, 0 0 30px #FF0033, 0 0 40px #FF0033, 0 0 50px #FF0033;
-  }
-  100% {
-    text-shadow: 0 0 10px #39FF14, 0 0 20px #39FF14, 0 0 30px #39FF14, 0 0 40px #39FF14;
-  }
-}
-</style>
 ---
 
 ### 🛠 Инструменты
