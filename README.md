@@ -22,7 +22,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=39FF14&width=435&lines=Добро+пожаловать+в+мое+Портфолио!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=39FF14&width=435&lines=Добро+пожаловать!" alt="Typing SVG" />
 </h1>
 ---
 
