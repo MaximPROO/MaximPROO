@@ -44,7 +44,7 @@
 ### 📊 GitHub Статистика
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&bg_color=141321&title_color=FF0033&text_color=FFFFFF&icon_color=39FF14" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MaximPROO&show_icons=true&theme=radical&bg_color=141321&title_color=FF0033&text_color=FFFFFF&icon_color=39FF14" alt="GitHub Stats" />
 </p>
 
 <p align="center">
