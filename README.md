@@ -67,8 +67,7 @@
 
 
 
-
-### 📬 Связь со мной
+### 🌐 Найдите меня в социальных сетях
 
 <p align="center">
   <a href="https://www.youtube.com/ТВОЙ_КАНАЛ" target="_blank">
@@ -85,5 +84,8 @@
   </a>
   <a href="https://www.linkedin.com/in/ТВОЙ_ПРОФИЛЬ" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://t.me/ТВОЙ_АККАУНТ" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
